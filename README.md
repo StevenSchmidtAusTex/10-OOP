@@ -1,4 +1,4 @@
-# 10-OOP Team Profile Generator
+# Team Profile Generator
 
 Developer: Steven Schmidt
 
